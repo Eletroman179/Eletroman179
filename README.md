@@ -10,3 +10,7 @@
 Eletroman179/Eletroman179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+and i make mods 
+
+[modrinth](https://modrinth.com/user/Electroman179)
